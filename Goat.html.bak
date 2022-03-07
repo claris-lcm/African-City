@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>SAVANNAH TRAVELLERS</title>
+</head>
+<body>
+<header>
+            <!--navbar-->
+            <div class="navbar">
+                <div class="logo">
+                    LOGO
+                </div>
+           <div class="topnav"id="my topnav">
+                    <a href="./legend.html"class="active">Home</a>
+                    <a href="./contacts.html">Contacts</a>
+                    <a href="./Services.html">Services</a>
+                    <a href="./About Us.html">About Us</a>
+                    <a href="#" class="notification">
+                        <span>Inbox</span>
+                        <span class="badge"></span>
+                      </a>
+                </div>
+                </div>
+                </header>
+</body>
+</html>

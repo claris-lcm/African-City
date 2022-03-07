@@ -1,0 +1,81 @@
+html{
+    background-color: white;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.navbar{
+    display: flex;
+    background-color: gray;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+.logo{
+    font-size: large;
+    color: white;
+    font: bold;
+}
+.topnav{
+    display: flex;
+    overflow: hidden;
+}
+.topnav a{
+    justify-content: space-between;
+    display: block;
+    color:white;
+    text-decoration: none;
+    padding: 16px 18px;
+    font-size: 20px;
+}
+.topnav.icon{
+display: none;
+}
+.main{
+    height: 100vh;
+    align-items: center;
+    padding: 20px;
+}
+a{
+    width: 100%;
+    height: auto;
+}
+/* Style buttons */
+.btn {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+  }
+  
+  /* Darker background on mouse-over */
+  .btn:hover {
+    background-color: RoyalBlue;
+  }
+  .notification {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding: 15px 26px;
+    position: relative;
+    display: inline-block;
+    border-radius: 2px;
+  }
+  
+  .notification:hover {
+    background: red;
+  }
+  
+  .notification .badge {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    padding: 5px 10px;
+    border-radius: 50%;
+    background: red;
+    color: white;
+  }
+  

@@ -1,0 +1,101 @@
+<!Doctype html>
+<html>
+ <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-compatible"content"IE=edge">
+        <meta name="viewport"content="width=device-width,initial-scale=1.o">
+        <!--style-->
+        <link rel="stylesheet"href="leg.css">
+        <title>AFRICAN FINEST CITY</title>
+		<style>
+		.main-container{
+		height:100vh;
+		}
+		</style>
+    </head>
+<body>
+ <header>
+            <!--navbar-->
+            <div class="navbar">
+                <div class="logo">
+                    LOGO
+                </div>
+           <div class="topnav"id="my topnav">
+                    <a href="./legend.html"class="active">Home</a>
+                    <a href="./contacts.html">Contacts</a>
+                    <a href="./Services.html">Services</a>
+                    <a href="./About Us.html">About Us</a>
+                    <a href="#" class="notification">
+                        <span>Inbox</span>
+                        <span class="badge"></span>
+                      </a>
+                </div>
+                </div>
+                </header>
+			</br>
+				<main class="main-content">
+				 <div class="header-content">
+                   <h3 style="text-align: center;">Services</h3>
+               </div>
+			   <div class="infomation">
+                   <ul class="detail">
+                       <li><h2>EDUCATION</h2><p>The educational facilities suplement the already existing ones.</p>
+					   <p>The university have a population of more than 10,000 students and more than 5,000 staff.</p></br></li>
+                                    
+                       <li><H2>ICT</H2><p>The city has a technology hub where research is done.</p></br></li>
+                       <li><H2>LIFESTYLE SCIENCE</H2><p>The lifestyle science provides life skills education so as to regulate lifestyle diseases.</p>
+					   <p>To provide gym and other training facilities to the residents of the city and other people.</p></li>
+                   </ul>
+               </div>
+			   </main>
+				 <footer>
+        <div class="footer">
+            <div class="mine">
+                
+                <ul class="list">
+                    <li><h5>OUR HEAD OFFICE</h5></li>
+                    <li><a href="#">At Ilinois International</a></li>
+                    <li><a href="#">NRB-MLB Road</a></li>
+                    <li><a href="#">Malabo,Saharawi</a></li>
+                    <li><a href="#">+234-8751462</a></li>
+                    <li><a href="#">infor@asc.or.sa</a></li>
+                </ul>
+            
+            </div>
+            
+        
+        <div class="identity">
+            
+            <ul class="chels">
+                <li><h5>EXTERNAL LINKS</h5></li>
+                <li><a href="#">All Saharawi Embassies in the World</a></li>
+                <li><a href="#">UN-Habitat Offices</a></li>
+                <li><a href="#">All ABSA Group Bank</a></li>
+                <li><a href="#">All BANK OF AFRICA Offices</a></li>
+            </ul>
+        </div>
+        <div class="emphas">
+            
+            <ul class="empty">
+                <li><h5>LIGAL LINKS</h5></li>
+                <li><a href="#">Privacy & Policy</a></li>
+                <li><a href="#">Terms and Conditions</a></li>
+                <li><a href="#">Technology Policy</a></li>
+            </ul>
+        </div>
+            </div>
+            <div class="copy">
+                <p>
+                    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                    Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | by Africa Smart City<img src=""><i class="." aria-hidden="true"></i>
+                    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                    </p>
+                    </div>
+        
+</footer>
+             </body>
+             </html>
+             
+
+</body>
+</html>
